@@ -11,3 +11,4 @@ Once the model is trained we will test the model with the normal test set and An
 Anomaly are selected based on theanomalies will be outside the interval mean - 3 * Standard deviation and mean + 3 * Standard deviation <br>
 ## Data ## 
 Here Data is extracted from the expedia dataset only one hotel is selected and that too USA location. So we will clear understanding of tax and exchange rate <br>
+Data filter.csv is the data file extracted from the expedia kaggle competition <br>
